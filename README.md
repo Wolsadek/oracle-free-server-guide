@@ -28,6 +28,7 @@ Este guia te ensina a configurar um servidor **gratuito para sempre** na Oracle 
 ### 🚀 Começando
 - [**QUICKSTART.md**](QUICKSTART.md) - Setup completo em 10 minutos
 - [**Billing Alerts**](docs/BILLING-ALERTS.md) - ⚠️ Configure alertas de cobrança (FAÇA PRIMEIRO!)
+- [**Disaster Recovery**](docs/DISASTER-RECOVERY.md) - 🆘 Plano de contingência e backup completo
 - [**FAQ**](docs/FAQ.md) - 50+ perguntas frequentes sobre Always Free
 
 ### 🔧 Guias Técnicos
