@@ -27,6 +27,7 @@ Este guia te ensina a configurar um servidor **gratuito para sempre** na Oracle 
 
 ### 🚀 Começando
 - [**QUICKSTART.md**](QUICKSTART.md) - Setup completo em 10 minutos
+- [**Billing Alerts**](docs/BILLING-ALERTS.md) - ⚠️ Configure alertas de cobrança (FAÇA PRIMEIRO!)
 - [**FAQ**](docs/FAQ.md) - 50+ perguntas frequentes sobre Always Free
 
 ### 🔧 Guias Técnicos
@@ -96,6 +97,7 @@ Depois siga as instruções em [QUICKSTART.md](QUICKSTART.md) para:
 ### Utilitários
 - `setup.sh` - Instalação automática de tudo
 - `diagnostico.sh` - Gera relatório completo do servidor
+- `monthly_report.sh` - Relatório mensal automático por email
 - `cpu-keepalive.service` - Mantém CPU sempre ativa
 
 ## 💡 Por que usar Oracle Always Free?

@@ -85,6 +85,21 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
   - Rede e domínios
   - Suporte e comunidades
 
+- `BILLING-ALERTS.md` - Alertas de cobrança (CRÍTICO):
+  - Configurar Budget com alertas de email
+  - Receber aviso antes de qualquer cobrança
+  - Monitorar gastos via console e CLI
+  - O que fazer se receber alerta
+  - Como contestar cobranças
+  - Dicas para evitar gastos
+
+- `EMAIL-SETUP.md` - Setup de email no servidor:
+  - Configurar Gmail SMTP com msmtp
+  - Enviar emails de scripts
+  - Alertas por email (alternativa ao Slack)
+  - Relatórios automáticos
+  - Troubleshooting SMTP
+
 - `ACCESS-GUIDE.md` - Guia de acesso rápido:
   - Setup inicial em novo computador
   - Comandos SSH prontos para uso

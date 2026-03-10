@@ -97,6 +97,36 @@ Use quando: Precisar configurar SSH, criar tunnels ou resolver problemas de cone
 
 ---
 
+### 💰 [BILLING-ALERTS.md](BILLING-ALERTS.md)
+**Configure alertas de cobrança**
+
+**⚠️ CRÍTICO - Configure isso primeiro!**
+
+Ensina:
+- Criar budget com alertas de email
+- Receber aviso ANTES de qualquer cobrança
+- Monitorar gastos mensais
+- O que fazer se receber alerta
+- Contestar cobranças indevidas
+
+Use quando: Logo após criar conta Oracle (primeiro passo!)
+
+---
+
+### 📧 [EMAIL-SETUP.md](EMAIL-SETUP.md)
+**Configurar email no servidor (opcional)**
+
+Ensina:
+- Enviar emails do servidor Ubuntu
+- Configurar Gmail SMTP (msmtp)
+- Usar em scripts de alerta
+- Alternativa/complemento ao Slack
+- Relatórios automáticos por email
+
+Use quando: Quiser alertas por email ou alternativa ao Slack.
+
+---
+
 ### 🔧 [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 **Soluções para problemas comuns**
 

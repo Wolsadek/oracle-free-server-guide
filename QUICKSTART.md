@@ -33,6 +33,22 @@ O script vai instalar:
 
 ## ⚙️ Configuração Rápida (5 minutos)
 
+### 0. Configure Budget Alerts (PRIMEIRO!)
+
+**⚠️ IMPORTANTE**: Faça isso ANTES de tudo para evitar cobranças surpresa!
+
+```
+1. Acesse: https://cloud.oracle.com/cost-management/budgets
+2. Create Budget
+3. Name: "Always-Free-Alert"
+4. Budget Amount: $0.50
+5. Alert quando gastar > $0.40
+6. Email: seu-email@gmail.com
+7. Salvar
+```
+
+**Detalhes completos**: [docs/BILLING-ALERTS.md](docs/BILLING-ALERTS.md)
+
 ### 1. Configure a Oracle CLI
 
 ```bash
