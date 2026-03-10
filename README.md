@@ -23,6 +23,11 @@ Este guia te ensina a configurar um servidor **gratuito para sempre** na Oracle 
 - 🐳 **Stack Docker** pronta (Nginx PM, n8n, RustDesk)
 - 🔒 **Segurança** (fail2ban, UFW, SSH hardening)
 
+## 📺 Vídeos Tutoriais
+
+- [Como criar servidor GRÁTIS na Oracle Cloud](https://www.youtube.com/watch?v=1XSsxMhnGTs)
+- [Tutorial Complementar](https://www.youtube.com/watch?v=SsK4YIIR69w)
+
 ## 📚 Documentação
 
 ### 🚀 Começando
