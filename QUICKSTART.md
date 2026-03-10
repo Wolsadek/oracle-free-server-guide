@@ -2,22 +2,21 @@
 
 Guia rápido para colocar o servidor Oracle Cloud Always Free funcionando rapidamente.
 
+## 📺 Vídeos Tutoriais
+
+- [Como criar servidor GRÁTIS na Oracle Cloud](https://www.youtube.com/watch?v=1XSsxMhnGTs)
+- [Tutorial Complementar](https://www.youtube.com/watch?v=SsK4YIIR69w)
+
 ## 🚀 Setup Inicial (5 minutos)
 
-### 1. Conectar ao servidor
-
-```bash
-ssh ubuntu@SEU_IP_ORACLE
-```
-
-### 2. Clone o repositório
+### 1. Clone o repositório
 
 ```bash
 git clone https://github.com/seu-usuario/oracle-free-server-guide.git
 cd oracle-free-server-guide
 ```
 
-### 3. Execute o script de setup
+### 2. Execute o script de setup
 
 ```bash
 chmod +x scripts/setup.sh
@@ -192,7 +191,7 @@ chmod +x ~/scripts/*.sh
 
 **Dúvidas?** Leia a [documentação completa](README.md)
 
-**Bug?** Abra uma [issue](https://github.com/seu-usuario/oracle-free-server-guide/issues)
+**Bug?** Abra uma [issue](https://github.com/wolsadek/oracle-free-server-guide/issues)
 
 ## 📖 Documentação Completa
 

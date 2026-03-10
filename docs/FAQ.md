@@ -323,7 +323,7 @@ Use o [QUICKSTART.md](../QUICKSTART.md) deste guia!
 ## 🤔 Sua dúvida não está aqui?
 
 1. Veja [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
-2. Procure nas [Issues do GitHub](https://github.com/seu-usuario/oracle-free-server-guide/issues)
+2. Procure nas [Issues do GitHub](https://github.com/wolsadek/oracle-free-server-guide/issues)
 3. Abra uma nova issue com sua pergunta
 
 **Contribua**: Se descobrir algo útil, abra um PR para adicionar aqui!

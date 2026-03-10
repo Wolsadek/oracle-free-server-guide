@@ -65,7 +65,7 @@ Este guia te ensina a configurar um servidor **gratuito para sempre** na Oracle 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/oracle-free-server-guide.git
+git clone https://github.com/wolsadek/oracle-free-server-guide.git
 cd oracle-free-server-guide
 
 # 2. Execute o setup automático
@@ -181,4 +181,4 @@ Baseado em experiências reais com Oracle Cloud Always Free Tier e scripts desen
 
 **⭐ Se este guia foi útil, considere dar uma estrela no repositório!**
 
-**💬 Dúvidas?** Abra uma [issue](https://github.com/seu-usuario/oracle-free-server-guide/issues) ou consulte o [FAQ](docs/FAQ.md).
+**💬 Dúvidas?** Abra uma [issue](https://github.com/wolsadek/oracle-free-server-guide/issues) ou consulte o [FAQ](docs/FAQ.md).
