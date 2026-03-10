@@ -1,0 +1,15 @@
+[Unit]
+Description=CPU Keep Alive Service
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu
+ExecStart=/usr/bin/stress-ng --cpu 4 --cpu-load 25 --timeout 0
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,33 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# API Keys and credentials
+*_key
+*_key.pub
+*.pem
+credentials.json
+
+# Backup files
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test files
+test/
+tmp/
+
+# Personal configurations (users should copy from .example files)
+config.local.*
